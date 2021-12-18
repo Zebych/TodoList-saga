@@ -7,7 +7,7 @@ import thunkMiddleware from 'redux-thunk';
 import {appReducer} from './app-reducer';
 import {authReducer} from '../features/Login/auth-reducer';
 import createSagaMiddleware from 'redux-saga';
-import {tasksWatcherSaga} from "../features/TodolistsList/tasks-saga";
+import {tasksWatcherSaga} from "../features/TodolistsList/tasks-sagas";
 import {appWatcherSaga} from "./app-saga";
 
 // объединяя reducer-ы с помощью combineReducers,
