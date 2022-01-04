@@ -52,10 +52,10 @@ export const Login = () => {
                         <p>
                             or use common test account credentials:
                         </p>
-                        <p> Email: free@samuraijs.com
+                        <p> Email: zebych87@mail.ru
                         </p>
                         <p>
-                            Password: free
+                            Password: zebych87
                         </p>
                     </FormLabel>
                     <FormGroup>
